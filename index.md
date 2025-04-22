@@ -24,7 +24,14 @@ You will have to pick a role from the list below. Each role has a specific part 
 ### Roles
 Here is a list of the roles which you can choose from:
 - EMS
-- 
+- Construction companies
+- Building Engineer
+- Insurance Companies
+- Thai Government
+- Myanmar Government
+- ASEAN
+- Citizen
+
 Below is a list of resources about the website.
 
 - [GitHub Repository](https://github.com/future-of-security/simulation-template)
