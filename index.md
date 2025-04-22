@@ -7,7 +7,7 @@ permalink: /
 
 # Just Another Simulation
 
-![Placeholder](assets/images/placeholder.png)
+![Placeholder](assets/images/earthquake.jpeg)
 
 This is a template for creating new simulations.
 
