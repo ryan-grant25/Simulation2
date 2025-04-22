@@ -5,11 +5,17 @@ nav_order: 1
 permalink: /
 ---
 
-# Just Another Simulation
+# Myanmar, Thailand Earthquake
 
 ![Placeholder](assets/images/earthquake.jpeg)
 
-This is a template for creating new simulations.
+
+## Overview
+In this simulation you will be tasked with coordinating a series of events. This simulationw ill have three phases:
+1. Pre Earthquake
+2. During Earthquake
+3. Post Earthquake
+During each of these phases, you will respond to a series of events that will pop up on the map. You will be tasked to handle each of these cases depending on your role in this simulation. Some migth require physical help, online help, infastructure rebuilding, etc.
 
 Below is a list of resources about the website.
 
