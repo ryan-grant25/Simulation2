@@ -15,7 +15,10 @@ In this simulation you will be tasked with coordinating a series of events. This
 1. Pre Earthquake
 2. During Earthquake
 3. Post Earthquake
+
+### Description
 During each of these phases, you will respond to a series of events that will pop up on the map. You will be tasked to handle each of these cases depending on your role in this simulation. Some migth require physical help, online help, infastructure rebuilding, etc.
+
 You will have to pick a role from the list below. Each role has a specific part to play in each phase of the simulation.
 
 ### Roles
