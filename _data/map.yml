@@ -11,3 +11,40 @@ locations:
     description: Building Under Construction Collapsed
     latitude: 22.09
     longitude: 96.23
+  - name: Bridge Collapse in Mandalay
+    description: Major highway bridge destroyed, cutting off supply routes
+    latitude: 21.983
+    longitude: 96.083
+  - name: Hospital Overcrowding in Chiang Rai
+    description: Hospitals overwhelmed with injured patients
+    latitude: 19.910
+    longitude: 99.830
+  - name: Displacement Camp Sanitation Crisis
+    description: Overcrowded refugee camps with poor sanitation near border
+    latitude: 20.450
+    longitude: 98.933
+  - name: Hydropower Plant Damage in Kachin
+    description: Damaged plant threatening power and flooding risk
+    latitude: 25.550
+    longitude: 97.300
+  - name: Looting and Civil Unrest in Yangon
+    description: Civil unrest and looting due to breakdown in order
+    latitude: 16.840
+    longitude: 96.173
+  - name: Cyberattack on Thai Aid Network
+    description: Disruption of Thai aid coordination system
+    latitude: 13.756
+    longitude: 100.501
+  - name: Landslides in the Shan Hills
+    description: Roads blocked and villages isolated by landslides
+    latitude: 22.035
+    longitude: 97.000
+  - name: School Collapse in Naypyidaw
+    description: School building collapse with children trapped
+    latitude: 19.763
+    longitude: 96.078
+  - name: Network Failure in Rural Sagaing
+    description: Entire villages cut off after communication lines failed
+    latitude: 22.150
+    longitude: 95.850
+
