@@ -11,7 +11,7 @@ permalink: /
 
 
 ## Overview
-In this simulation you will be tasked with coordinating a series of events. This simulationw ill have three phases:
+In this simulation you will be tasked with coordinating a series of events. This simulation will have three phases:
 1. Pre Earthquake
 2. During Earthquake
 3. Post Earthquake
