@@ -2,7 +2,7 @@
 title: Network Failure in Rural Sagaing
 layout: event
 parent: Scenarios
-nav_order: 10
+nav_order: 9
 ---
 
 # Network Failure in Rural Sagaing
