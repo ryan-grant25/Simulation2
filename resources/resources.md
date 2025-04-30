@@ -1,11 +1,11 @@
 ---
-title: Resources
+title: Additional Resources
 layout: page
 parent: Resources
 nav_order: 1
 ---
 
-# Resources
+# Additoinal Resources
 
 If you would like to learn more about the Myanmar/Thailand earthquake, you can find links to various resources and sites that give additional information below:
 
