@@ -6,4 +6,4 @@ nav_order: 6
 
 # Resources
 
-You may add more resources in the `resources` folder.
+This section provides links to additional sources of information about the earthquake such as news articles and videos.
