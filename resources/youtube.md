@@ -1,5 +1,5 @@
 ---
-title: Ipsum
+title: YouTube
 layout: page
 parent: Resources
 nav_order: 2
