@@ -11,6 +11,9 @@ permalink: /
 
 
 ## Overview
+In late March 2025, a powerful 7.7 magnitude earthquake struck near Sagaing, Myanmar, followed shortly by another major quake affecting both Myanmar and Thailand. The twin disasters caused widespread destruction, thousands of casualties, and severe disruptions to infrastructure and basic services. Rescue efforts have been hindered by ongoing aftershocks and political obstacles, particularly in Myanmar, where the military-led government has limited outside aid, while Thailand has taken a more active role in relief. Remote areas remain difficult to reach, revealing critical gaps in earthquake preparedness. Compounding the crisis, cyberattacks have targeted emergency systems and spread misinformation, highlighting the need for both physical and digital resilience in disaster response.
+
+
 In this simulation you will be tasked with coordinating a series of events. This simulation will have three phases:
 1. Pre Earthquake
 2. During Earthquake
