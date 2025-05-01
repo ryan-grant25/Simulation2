@@ -20,20 +20,11 @@ In this simulation you will be tasked with coordinating a series of events. This
 3. Post Earthquake
 
 ### Description
-During each of these phases, you will respond to a series of events that will pop up on the map. You will be tasked to handle each of these cases depending on your role in this simulation. Some migth require physical help, online help, infastructure rebuilding, etc.
+During each of these phases, you will respond to a series of events that will pop up on the map. You will be tasked to handle each of these cases depending on your role in this simulation. Some migth require physical help, online help, infastructure rebuilding, etc. You will respond to these events by writing a detailed report explaining the location, who is involved, how they will help etc. These need to be extremely detailed so that someone that is not familiar with the simulation can understand how to respond to that specific event you are writing the report on.
 
-You will have to pick a role from the list below. Each role has a specific part to play in each phase of the simulation.
+Use the side bar on the left to naviagte the website. We encourage you to explore the webstie and get familiar where everyting is, so you can navigate it easily come the simulation.
 
-### Roles
-Here is a list of the roles which you can choose from:
-- EMS
-- Construction companies
-- Building Engineer
-- Insurance Companies
-- Thai Government
-- Myanmar Government
-- ASEAN
-- Citizen
+Go to the Team -> Role Assignment page for more details about the roles available and details about them.
 
 Below is a list of resources about the website.
 
